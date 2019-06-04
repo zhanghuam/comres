@@ -3,13 +3,14 @@
   <groupId>com.comres</groupId>
   <artifactId>aar</artifactId>
   <versioning>
-    <release>1.0.3</release>
+    <release>1.0.4</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>1.0.3</version>
+      <version>1.0.4</version>
     </versions>
-    <lastUpdated>20190530071322</lastUpdated>
+    <lastUpdated>20190604093855</lastUpdated>
   </versioning>
 </metadata>
